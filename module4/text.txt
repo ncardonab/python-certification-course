@@ -1,0 +1,3 @@
+This is an essay, which purpose is to know
+how many times certain letter is in the file
+and also what is the most frequent word in each line
